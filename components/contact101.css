@@ -69,6 +69,24 @@
   align-items: flex-start;
   justify-content: center;
 }
+.contact101-fragment1 {
+  display: contents;
+}
+.contact101-fragment2 {
+  display: contents;
+}
+.contact101-fragment3 {
+  display: contents;
+}
+.contact101-fragment4 {
+  display: contents;
+}
+.contact101-fragment5 {
+  display: contents;
+}
+.contact101-fragment6 {
+  display: contents;
+}
 @media(max-width: 991px) {
   .contact101-content1 {
     align-items: flex-start;

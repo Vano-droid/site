@@ -52,11 +52,20 @@
   text-decoration: none;
   background-color: var(--dl-color-theme-secondary2);
 }
+.cta26-fragment1 {
+  display: contents;
+}
 .cta26-text4 {
   display: inline-block;
 }
+.cta26-fragment2 {
+  display: contents;
+}
 .cta26-text5 {
   display: inline-block;
+}
+.cta26-fragment3 {
+  display: contents;
 }
 .cta26-text6 {
   display: inline-block;

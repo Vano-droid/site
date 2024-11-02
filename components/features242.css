@@ -132,6 +132,24 @@
   flex-direction: column;
   justify-content: center;
 }
+.features242-fragment1 {
+  display: contents;
+}
+.features242-fragment2 {
+  display: contents;
+}
+.features242-fragment3 {
+  display: contents;
+}
+.features242-fragment4 {
+  display: contents;
+}
+.features242-fragment5 {
+  display: contents;
+}
+.features242-fragment6 {
+  display: contents;
+}
 
 @media(max-width: 991px) {
   .features242-container2 {
