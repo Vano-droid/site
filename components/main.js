@@ -5,6 +5,3 @@ const button3=document.getElementsByClassName("pricing6-button12 thq-button-outl
 const button4=document.getElementsByClassName("pricing6-button13 thq-button-filled");
 const container=document.getElementsByClassName("pricing6-container1");
 const container2=document.getElementsByClassName("pricing6-container2");
-if (isMonthly=true){
-    container.style.display="none";
-}

@@ -48,7 +48,7 @@
   color: var(--dl-color-theme-neutral-light);
   width: 120px;
   height: 60px;
-  display: flex;
+  display: none;
   padding: var(--dl-space-space-unit);
   align-items: center;
   justify-content: center;
@@ -79,7 +79,7 @@
   gap: var(--dl-space-space-halfunit);
   width: 120px;
   height: 60px;
-  display: flex;
+  display: none;
   padding: var(--dl-space-space-unit);
   align-items: center;
   border-color: var(--dl-color-theme-primary1);
@@ -330,7 +330,7 @@
 .pricing6-container2 {
   gap: var(--dl-space-space-twounits);
   width: 100%;
-  display: flex;
+  display: none;
   align-self: stretch;
   align-items: flex-start;
   flex-shrink: 0;
