@@ -1,10 +1,10 @@
 const products = [
-    { name: "Adidas", price: 2500, id: 1, quantity: 1,},
-    { name: "Sting Energy Drink", price: 120, id: 2, quantity: 1,},
-    { name: "Umbrella", price: 500, id: 3, quantity: 1, },
-    { name: "Cat Food", price: 900, id: 4, quantity: 1, },
-    { name: "T Shirt", price: 300, id: 5, quantity: 1, },
-    { name: "Book", price: 100, id: 6, quantity: 1,},
+    { name: "Комплексный сайт", price: 5000, id: 1, quantity: 1,},
+    { name: "Бэкграунд Сайта", price: 2000, id: 2, quantity: 1,},
+    { name: "Фротенд Сайта", price: 4000, id: 3, quantity: 1, },
+    { name: "Пентест Сайта", price: 500, id: 4, quantity: 1, },
+    { name: "Приложение", price: 7500, id: 5, quantity: 1, },
+    { name: "Подключение к серверам", price: 200, id: 6, quantity: 1,},
   ];
   
   let cart = []
@@ -13,7 +13,7 @@ const products = [
     (product) => `<div class="product-card">
           <h2 class="product-name">${product.name}</h2>
           <strong>$${product.price}</strong>
-          <button class="product-btn" id=${product.id}>Add to Cart</button>
+          <button class="product-btn" id=${product.id}>В корзину</button>
       </div>`
   );
   const result = document.querySelector(".result");
