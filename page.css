@@ -232,7 +232,7 @@
   color: var(--dl-color-theme-neutral-light);
   width: 120px;
   height: 60px;
-  display: flex;
+  display: none;
   padding: var(--dl-space-space-unit);
   align-items: center;
   justify-content: center;
@@ -263,7 +263,7 @@
   gap: var(--dl-space-space-halfunit);
   width: 120px;
   height: 60px;
-  display: flex;
+  display: none;
   padding: var(--dl-space-space-unit);
   align-items: center;
   border-color: var(--dl-color-theme-primary1);
@@ -1057,7 +1057,7 @@
 .cta26-container2 {
   gap: var(--dl-space-space-threeunits);
   width: 100%;
-  display: flex;
+  display: none;
   transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(1deg) skew(0deg, 0deg);
   transition: 0.3s;
   align-items: center;
