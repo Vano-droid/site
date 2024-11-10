@@ -514,7 +514,7 @@
 .pricing6-container2 {
   gap: var(--dl-space-space-twounits);
   width: 100%;
-  display: flex;
+  display: none;
   align-self: stretch;
   align-items: flex-start;
   flex-shrink: 0;
@@ -1057,7 +1057,7 @@
 .cta26-container2 {
   gap: var(--dl-space-space-threeunits);
   width: 100%;
-  display: none;
+  display: flex;
   transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(1deg) skew(0deg, 0deg);
   transition: 0.3s;
   align-items: center;
